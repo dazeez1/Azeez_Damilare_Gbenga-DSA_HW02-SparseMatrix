@@ -23,7 +23,7 @@ Use python --version to check the version of python on your machine.
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
 
-git clone https://github.com/dazeez1/Azeez_Damilare_Gbenga-DSA_HW02-SparseMatrix.git
+git clone https://github.com/Azeez_Damilare_Gbenga-DSA_HW02-SparseMatrix.git
 
 After cloning the repo, navigate using the absolute path: dsa/hw02/code/src/
 using this as the argument to the cd command, in the src directory lies the program.
