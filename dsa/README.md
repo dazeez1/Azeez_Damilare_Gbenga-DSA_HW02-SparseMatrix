@@ -24,7 +24,7 @@ You will need to clone the repository of the project from Github. This will cont
 ```
 git clone https://github.com/dazeez1/Azeez_Damilare_Gbenga-DSA_HWO1-UniqueInt.git
 ```
-After cloning the repo, navigate using the absolute path: dsa/hw01/code/src/
+After cloning the repo, navigate using the absolute path: dsa/hw02/code/src/
 using this as the argument to the cd command, in the src directory lies the program.
 
 This is still a demo, so all input files that are to be handled by the program must be in the same directory as the program source file, which is the src directory.
